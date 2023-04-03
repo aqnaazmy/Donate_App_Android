@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Showcase</string>
+    <string name="title">Donate for kids to their well being</string>
+    <string name="foundation">Plug-in Foundation</string>
+    <string name="description">We accomplish this through our unique network of health professionals and orga nization committed to improving health policies and practices, Isha Foundation is a nonprofit providing life saving medical care to children aims at creating a long and
++more</string>
+    <string name="donated">2000+ Donated</string>
+    <string name="total_donated">Total Donation</string>
+    <string name="total_money">$3456.08</string>
+    <string name="button_donate">Donate now</string>
+
+
+</resources>
